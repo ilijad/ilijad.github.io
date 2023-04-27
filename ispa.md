@@ -8,14 +8,14 @@ layout: default2
 
 
 
-This reseach paper was created during the initial stages of the creation of large scale multi-illuminant dataset.
+This research paper was created during the initial stages of the creation of a large scale multi-illuminant dataset.
 Existing methods that perform illumination estimation in multi-illuminant images divide the image into 
-small patches and perform illumination estimation for each patch seperately.
-Such a approach simplifies the estimation process with the assumption that since the patche are small they contain only one illuminant.
-The problem with this approach is that small patche usually dont contain enough information for proper illumination estimation.
-An example being a yellow wall where without additonal information we cannot know whether the wall is yellow and the color of the light is white or the wall is white and color of the light is yellow or any other combination of wall and light color.
+small patches and perform illumination estimation for each patch separately.
+Such an approach simplifies the estimation process with the assumption that since the patches are small they contain only one illuminant.
+The problem with this approach is that small patches usually don't contain enough information for proper illumination estimation.
+An example is a yellow wall where without additional information we cannot know whether the wall is yellow and the color of the light is white or the wall is white and the color of the light is yellow or any other combination of wall and light color.
 Here I wanted to see if a neural network that takes the entire image as an input will produce better results than methods that divide the image into patches.
-For this I used an existing ste-of-the-art single illuminant estimation method and edited it for multi illuminant estimation. Experiments showed that such an apporach out performs neural networks that divide the image into patches.
+For this, I used an existing state-of-the-art single illuminant estimation method and edited it for multi-illuminant estimation. Experiments showed that such an approach out performs neural networks that divide the image into patches.
 
 * * *
 

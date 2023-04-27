@@ -7,9 +7,8 @@ layout: default2
 # Filters & Lumination: Creating multi-illuminant images for computational color constancy
 
 
-There are some limitations in the Shadows & Lumination dataset. It only contains images with 2 light sources and the images contain no regions with non-uniform illumination. Because of these reasons I developed a method for the creation of multi-illuminant images with an arbitrary number of images with non-uniform illumination. The method was designed so that the illumination mask creation required no manual labeling. This is achieved by taking multiple images of the same scene where the only difference between the images is the scene illumination. To achieve this lighting color filters were placed in front of the camera lens.
-In a normal real world image the values of a pixel depend on three factors, scene illumination color, surface reflectance of objects in the scene and the camera sensitivity function. 
-
+There are some limitations in the Shadows & Lumination dataset. It only contains images with 2 light sources and the images contain no regions with non-uniform illumination. Because of these reasons, I developed a method for the creation of multi-illuminant images with an arbitrary number of images with non-uniform illumination. The method was designed so that the illumination mask creation required no manual labeling. This is achieved by taking multiple images of the same scene where the only difference between the images is the scene illumination. To achieve this lighting color filters were placed in front of the camera lens.
+In a normal real-world image, the values of a pixel depend on three factors, scene illumination color, surface reflectance of objects in the scene, and the camera sensitivity function. 
 $$
     \textbf{l} =
     \begin{bmatrix}
@@ -79,7 +78,7 @@ Our approach also includes an automatic way to create a per-pixel illumination m
 
 
 ## Link to paper [https://doi.org/10.1145/3589883.3589909](https://doi.org/10.1145/3589883.3589909)  
-If the DOI Not Found website is reached the paper has not yet been uploaded. Waiting for the ICMLT conference to upolad the proceesings.
+If the DOI Not Found website is reached the paper has not yet been uploaded. Waiting for the ICMLT conference to upload the proceedings.
 
 
 

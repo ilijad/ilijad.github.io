@@ -2,14 +2,14 @@
 layout: default
 ---
 
-# Hello there, I am Ilija Domislović
-I am a student at University of Zagreb Faculty of Electrical Engineering and Computing currently pursuing my Ph.D. in Computer Science.
-Am currently at the final stage with my defence hopefully being in June of 2023.
+# Hello, I am Ilija Domislović
+I am a student at the University of Zagreb Faculty of Electrical Engineering and Computing currently pursuing my Ph.D. in Computer Science.
+Am currently at the final stage with my defense hopefully being in June of 2023.
 
-The main focus of my doctoral reseach is computer vision and machine learning, more specifically color constancy. 
-Generally the area of machine learning interests me and I want to expand my knowledge and continue exploring the capabiliets machine learning.
+The main focus of my doctoral research is computer vision and machine learning, more specifically color constancy. 
+Generally, the area of machine learning interests me and I want to expand my knowledge and continue exploring the capabilities of machine learning.
 
-I created this site to give a more detailed description of the research I have done for my doctoral thesis.
+I created this site[^1] to give a more detailed description of the research I have done for my doctoral thesis.
 
 * * *
 
@@ -24,7 +24,7 @@ Many different methods have been developed ranging from simple methods that use 
 Several different methods have been developed for illumination estimation.
 The proposed single-illuminant method is a lightweight convolutional neural network that achieves state-of-the-art results on several existing datasets. 
 
-The multi-illuminant methods were created for three different situations, for multi-illuminant estimation when the number of illuminants is known apriori, for illumination estimation is performed on a patch-by-patch basis, and illumination estimation for each pixel separately. In addition to estimation methods two dataset creation methods were developed. The performed experiments show that all proposed methods achieve comparable or better results than methods from the literature.
+The multi-illuminant methods were created for three different situations, for multi-illuminant estimation when the number of illuminants is known apriori, for illumination estimation is performed on a patch-by-patch basis, and illumination estimation for each pixel separately. In addition to estimation methods, two dataset creation methods were developed. The performed experiments show that all proposed methods achieve comparable or better results than methods from the literature.
 
 
 
@@ -34,7 +34,7 @@ The multi-illuminant methods were created for three different situations, for mu
 
 ## Research
 
-Here are the 5 papers I have publihsed in pursuit of my doctorate.
+Here are the 5 papers I have published in pursuit of my doctorate.
 You can click on the links to get a detailed description of the research.
 
 * [One-net: Convolutional color constancy simplified](./one_net.html)
@@ -50,11 +50,14 @@ You can click on the links to get a detailed description of the research.
 ## Embedded programming
 
 
-In addition to computer vision I Have an interest in the field of embedded programing where I have done several projects.
+In addition to computer vision, I Have an interest in the field of embedded programming where I have done several projects.
 
-* The creation of a smart plug that track user energy consumption and store the data on a local server
-* The development of a device used in fuel trucks to monitor whether the fuel latch is open. This incuded the development of the enbede hardware, embeded software and component testing.
-* The creation of a function camera system on a FPGA board. This incuded the creaetion of a driver form camera sensor and FPGA comunication, RAW to JPEG decoding and image storing.
+* The creation of a smart plug that tracks user energy consumption and stores the data on a local server
+* The development of a device used in fuel trucks to monitor whether the fuel latch is open. This included the development of the embedded hardware, embedded software, and component testing.
+* The creation of a functional camera system on an FPGA board. This included the creation of a driver form camera sensor and FPGA communication, RAW to JPEG decoding, and image storing.
 
+
+
+[^1]: Website inspiration from my friend Jeronim. [Github link](https://github.com/jere357)
 
 
