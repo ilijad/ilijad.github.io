@@ -86,11 +86,17 @@ Generally the area of machine learning interests me and I want to expand my know
 
 <hr />
 
-<h2 id="color-constancy">Color constancy</h2>
+<h2 id="my-thesis-summary">My thesis summary</h2>
 
-<p>Color constancy is an example of subjective constancy and a feature of the human color perception system which ensures that the perceived color of objects remains relatively constant under varying illumination conditions. A green apple for instance looks green to us at midday, when the main illumination is white sunlight, and also at sunset, when the main illumination is red. This helps us identify objects.</p>
+<p>The Human Visual System is an interesting part of the human body that allows us to perceive the world around us. One of its most fascinating parts is its adaptability. The color of illumination has a significant effect on the color of an object illuminated by said illumination, but we will perceive the color of the object as relatively constant. This is called color constancy.
+Unlike humans, cameras cannot automatically remove illumination color from an object. This creates a need to develop a method that emulates the adaptability of the Human Visual System.</p>
 
-<p style="text-align: right;">Taken from wikipedia</p>
+<p>Many different methods have been developed ranging from simple methods that use image statistics to complex learning-based methods. For the proper training of learning-based methods, a large number of samples is needed. This presents a problem because the creation of quality images with multiple illuminants is a very laborious process so there are not many multi-illuminant datasets. My thesis explores both the development of methods for illumination estimation as well as methods for the creation, labeling, and validation of images with multiple illuminants.</p>
+
+<p>Several different methods have been developed for illumination estimation.
+The proposed single-illuminant method is a lightweight convolutional neural network that achieves state-of-the-art results on several existing datasets.</p>
+
+<p>The multi-illuminant methods were created for three different situations, for multi-illuminant estimation when the number of illuminants is known apriori, for illumination estimation is performed on a patch-by-patch basis, and illumination estimation for each pixel separately. In addition to estimation methods two dataset creation methods were developed. The performed experiments show that all proposed methods achieve comparable or better results than methods from the literature.</p>
 
 <hr />
 
@@ -109,7 +115,7 @@ You can click on the links to get a detailed description of the research.</p>
 
 <hr />
 
-<h2 id="additional-interests">Additional interests</h2>
+<h2 id="embedded-programming">Embedded programming</h2>
 
 <p>In addition to computer vision I Have an interest in the field of embedded programing where I have done several projects.</p>
 
