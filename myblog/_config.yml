@@ -1,0 +1,12 @@
+title: 
+markdown: kramdown
+usemathjax: true
+logo: /assets/imgs/profile.jpeg
+description: Myself
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
+livereload: true
+diplay_github: true
+github_url: https://www.github.com/ilijad
+cv_url: /assets/domislovic_cv.pdf

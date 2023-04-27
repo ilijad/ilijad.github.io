@@ -29,5 +29,5 @@ new way to create multi-illuminant color constancy images. With our approach, im
 Our approach also includes an automatic way to create a per-pixel illumination mask for each image. We used around 100 different scenes to evaluate our dataset creation approach. We also evaluate several methods from the literature on our images.
 
 
-The paper is avalable at: https://doi.org/10.1145/3589883.3589909 (if the DOI Not Found website is reached the paper has not yet been uploaded. Waiting for the ICMLT conference to upoad the proceesings.)
+The paper is avalable at: https://doi.org/10.1145/3589883.3589909 (if the DOI Not Found website is reached the paper has not yet been uploaded. Waiting for the ICMLT conference to upolad the proceesings.)
 
