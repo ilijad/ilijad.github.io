@@ -12,10 +12,9 @@ Young researcher at University of Zagreb Faculty of Electrical Engineering and C
 
 About
 
-I am a student at University of Zagreb Faculty of Electrical Engineering and Computing currently pursuing my Ph.D. in Computer Science.
-Am currently at the final stage wiht my defence hopefully being in June of 2023.
-The main focus of my doctoral reseach is computer vision and machine learning, more specifically color constancy.
-
+I am currently working as a Software Engineer at dSPACE. I completed my Ph.D. at the
+University of Zagreb, Faculty of Electrical Engineering and Computing, in September of 2023.
+My main interests lie in machine learning, computer vision, and embedded programming.
 
 Doctoral reseach:
 

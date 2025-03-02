@@ -3,11 +3,12 @@ layout: default
 ---
 
 # Hello, I am Ilija Domislović
-I am a student at the University of Zagreb Faculty of Electrical Engineering and Computing currently pursuing my Ph.D. in Computer Science.
-Am currently at the final stage with my defense hopefully being in June of 2023.
+I am currently working as a Software Engineer at dSPACE.
+I completed my Ph.D. at the University of Zagreb, Faculty of Electrical Engineering and Computing, in September of 2023.
 
-The main focus of my doctoral research is computer vision and machine learning, more specifically color constancy. 
+The main focus of my doctoral research was computer vision and machine learning, more specifically color constancy. 
 Generally, the area of machine learning interests me and I want to expand my knowledge and continue exploring the capabilities of machine learning.
+In addition to machine learning, I have an interest in embedded programming.
 
 I created this site[^1] to give a more detailed description of the research I have done for my doctoral thesis.
 
